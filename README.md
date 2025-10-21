@@ -7,9 +7,7 @@ A lightweight 2D character controller built with basic movement, jumping, and da
 - 🦘 Jump with configurable height
 - ⚡ Dash in the direction you're facing
 
-## Demo
-
-![Character Controller Demo](Recordings/Movie.gif)  
+![Character Controller Preview](Recordings/Movie.gif)  
 
 ## Controls
 
@@ -17,4 +15,4 @@ A lightweight 2D character controller built with basic movement, jumping, and da
 |-----|--------------|
 | A/D or ←/→ | Move left/right |
 | Spacebar     | Jump          |
-| Left Shift / L | Dash        |
+| Left Shift | Dash        |
