@@ -9,7 +9,10 @@ A lightweight 2D character controller built with basic movement, jumping, and da
 
 
 ## 📸 Preview 
+
 ![Character Controller Preview](Media/Movie.gif)  
+
+
 
 ## Controls
 
